@@ -1,4 +1,4 @@
-# 📜 Certificados e Conquistas
+# 📜 Certificados e Conquistas.
 
 Este diretório contém os certificados de cursos, workshops e eventos que concluí ao longo da minha jornada como desenvolvedor. Meu objetivo é manter um registro contínuo da minha evolução técnica e do compromisso com o aprendizado constante.
 
